@@ -1,5 +1,5 @@
 ## Halo!
-Selamat datang di GitHub IT Club MAN 1 Metro, disini kami (mungkin) akan membagikan source code dari ekstrakurikuler kami :)
+Selamat datang di GitHub IT Club MAN 1 Metro, di sini kami (mungkin) akan membagikan source code dari ekstrakurikuler kami :)
 
 ## Team (as of 2024)
 - Ketua : Ario (TamajiG)
